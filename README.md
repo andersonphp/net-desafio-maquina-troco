@@ -1,7 +1,7 @@
 # net-desafio-maquina-troco
 Desafio - lógica de troco para uma máquina de vendas. 
 
-##Desafio - Programa de troco
+Desafio - Programa de troco
 
 Você está encarregado de desenvolver a lógica de troco para uma máquina de vendas. Essa máquina aceita
 notas e moedas, sendo:
@@ -27,7 +27,7 @@ Valor pago: R$ 10,00
 Troco:
 R$ 4,50 -> quatro moedas de 1 real e uma moeda de 50 centavos.
 
-##BÔNUS
+BÔNUS
 Considerar estoque de moedas na máquina.
 Exemplo:
 Produto: R$ 5,50
