@@ -1,0 +1,14 @@
+C:\Projetos\desafio-net-maquina-troco\bin\Debug\net8.0\desafio-net-maquina-troco.exe
+C:\Projetos\desafio-net-maquina-troco\bin\Debug\net8.0\desafio-net-maquina-troco.deps.json
+C:\Projetos\desafio-net-maquina-troco\bin\Debug\net8.0\desafio-net-maquina-troco.runtimeconfig.json
+C:\Projetos\desafio-net-maquina-troco\bin\Debug\net8.0\desafio-net-maquina-troco.dll
+C:\Projetos\desafio-net-maquina-troco\bin\Debug\net8.0\desafio-net-maquina-troco.pdb
+C:\Projetos\desafio-net-maquina-troco\obj\Debug\net8.0\desafio-net-maquina-troco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\desafio-net-maquina-troco\obj\Debug\net8.0\desafio-net-maquina-troco.AssemblyInfoInputs.cache
+C:\Projetos\desafio-net-maquina-troco\obj\Debug\net8.0\desafio-net-maquina-troco.AssemblyInfo.cs
+C:\Projetos\desafio-net-maquina-troco\obj\Debug\net8.0\desafio-net-maquina-troco.csproj.CoreCompileInputs.cache
+C:\Projetos\desafio-net-maquina-troco\obj\Debug\net8.0\desafio-net-maquina-troco.dll
+C:\Projetos\desafio-net-maquina-troco\obj\Debug\net8.0\refint\desafio-net-maquina-troco.dll
+C:\Projetos\desafio-net-maquina-troco\obj\Debug\net8.0\desafio-net-maquina-troco.pdb
+C:\Projetos\desafio-net-maquina-troco\obj\Debug\net8.0\desafio-net-maquina-troco.genruntimeconfig.cache
+C:\Projetos\desafio-net-maquina-troco\obj\Debug\net8.0\ref\desafio-net-maquina-troco.dll
