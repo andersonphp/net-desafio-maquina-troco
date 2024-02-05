@@ -1,7 +1,7 @@
 # net-desafio-maquina-troco
 Desafio - lógica de troco para uma máquina de vendas. 
 
-#Desafio - Programa de troco
+##Desafio - Programa de troco
 
 Você está encarregado de desenvolver a lógica de troco para uma máquina de vendas. Essa máquina aceita
 notas e moedas, sendo:
